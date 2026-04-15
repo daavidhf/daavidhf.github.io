@@ -4,7 +4,7 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is David, I am from Barcelona and I love learning new skills to apply the latest technology to improve efficiency and people’s lives. Have a look at my background below!
+My name is David, I am from Barcelona and I love learning new skills and apply the latest technology to improve efficiency and people’s lives. Have a look at my background below!
 
 ### Education
 - BSc in Industrial Electronics & Automatic Control Engineering at UPC (2020 - 2025)

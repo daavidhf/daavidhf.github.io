@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monitoring and Telemedicine
+title: Real-Time Telemedicine and ECG Monitoring
 subtitle: Exploring Cloud Applications in Biomedicine
 date: 2026-04-15
 categories: biomedicine cloud-computing
@@ -9,8 +9,6 @@ comments: true
 mathjax: true
 author: David Hidalgo Fàbregas
 ---
-
-# The Heart in the Cloud: Real-Time Telemedicine and ECG Monitoring
 
 As biomedical research becomes a digital activity that generates large volumes of data, traditional local computing infrastructure is often insufficient to handle the scale and speed required by modern healthcare. Cloud computing has emerged as the essential alternative, offering secure, on-demand storage and analysis through Infrastructure, Platform, and Software as a Service (IaaS, PaaS, and SaaS) models **[1]**.
 

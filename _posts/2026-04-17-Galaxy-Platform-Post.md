@@ -2,7 +2,7 @@
 layout: post
 title: Real-Time Telemedicine and ECG Monitoring
 subtitle: Exploring Cloud Applications in Biomedicine
-date: 2026-04-15
+date: 2026-04-17
 categories: biomedicine cloud-computing
 
 comments: true

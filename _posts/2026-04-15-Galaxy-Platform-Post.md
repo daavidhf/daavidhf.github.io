@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real-Time Autonomic Monitoring and Telemedicine
-title: Exploring Cloud Applications in Biomedicine
+subtitle: Exploring Cloud Applications in Biomedicine
 date: 2026-04-15
 categories: biomedicine cloud-computing
 

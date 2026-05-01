@@ -10,11 +10,7 @@ mathjax: true
 author: David Hidalgo Fàbregas
 ---
 
-<style>
-  p {
-    text-align: justify;
-  }
-</style>
+<div style="text-align: justify;">
 
 {: .box-note}
 As cardiovascular diseases continue to be a leading cause of global mortailty, continuous monitoring of high-risk patients has become a critical challenge. Tradicional hospital infrastructure is often insufficient to handle the continuous, high-frequency data required for long-term heart monitoring. To solve this, researchers are developing specific cloud-based architectures to process vital signs seamlessly.
@@ -63,3 +59,5 @@ The framework developed by Yang et al. proves that the fusion of wearable sensor
 ### References
 
 **[1]** Yang, Z., Zhou, Q., Lei, L., Zheng, K., & Xiang, W. (2016). An IoT-cloud based wearable ECG monitoring system for smart healthcare. Journal of Medical Systems, 40(12), 286. [https://doi.org/10.1007/s10916-016-0644-9](https://doi.org/10.1007/s10916-016-0644-9). PMID: 27796840.
+
+</div>

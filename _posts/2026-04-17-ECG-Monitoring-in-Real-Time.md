@@ -10,6 +10,12 @@ mathjax: true
 author: David Hidalgo Fàbregas
 ---
 
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
+
 {: .box-note}
 As cardiovascular diseases continue to be a leading cause of global mortailty, continuous monitoring of high-risk patients has become a critical challenge. Tradicional hospital infrastructure is often insufficient to handle the continuous, high-frequency data required for long-term heart monitoring. To solve this, researchers are developing specific cloud-based architectures to process vital signs seamlessly.
 
